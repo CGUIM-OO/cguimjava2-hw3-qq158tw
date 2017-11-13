@@ -3,7 +3,8 @@ import java.util.HashMap;
 //import java.util.Scanner;
 
 /**
- * @author TODO: please add student ID and name here
+ * student ID:B0544147
+ * name:³s¥Ð¥Ð
  * Try to write some comments for your codes (methods, 10 points)
  */
 public class HW3 {
